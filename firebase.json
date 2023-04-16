@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "build/SocialTone-twitter-clone",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
